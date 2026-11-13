@@ -1,0 +1,74 @@
+[
+    {
+        "_id":  "review_001",
+        "contentId":  "movie_001",
+        "contentType":  "movie",
+        "author":  "CinephileMax",
+        "avatarUrl":  "/images/avatars/review_001.jpg",
+        "rating":  9,
+        "title":  "A monument of modern cinema",
+        "body":  "Nolan orchestrates the Manhattan Project with the precision of its own subject. Cillian Murphy\u0027s performance is volcanic and restrained simultaneously â€” a career-defining turn that transcends biopic convention.",
+        "date":  "2024-01-15T10:30:00Z",
+        "likes":  234
+    },
+    {
+        "_id":  "review_002",
+        "contentId":  "movie_001",
+        "contentType":  "movie",
+        "author":  "FilmStudent22",
+        "avatarUrl":  "/images/avatars/review_002.jpg",
+        "rating":  8,
+        "title":  "Technically masterful, emotionally complex",
+        "body":  "The triptych structure gives the film its peculiar power. The courtroom sequences drag slightly, but the Trinity test sequence is cinema at its most visceral.",
+        "date":  "2024-01-20T14:15:00Z",
+        "likes":  189
+    },
+    {
+        "_id":  "review_003",
+        "contentId":  "series_001",
+        "contentType":  "series",
+        "author":  "TVCritic",
+        "avatarUrl":  "/images/avatars/review_003.jpg",
+        "rating":  10,
+        "title":  "The best show on television, by some distance",
+        "body":  "Season 2 Episode 7 \u0027Forks\u0027 is the finest hour of television produced this decade. The Bear operates at an intensity that is physically uncomfortable to watch, in the best possible way.",
+        "date":  "2024-02-01T09:00:00Z",
+        "likes":  456
+    },
+    {
+        "_id":  "review_004",
+        "contentId":  "series_002",
+        "contentType":  "series",
+        "author":  "SharpObserver",
+        "avatarUrl":  "/images/avatars/review_004.jpg",
+        "rating":  10,
+        "title":  "Shakespeare for the streaming age",
+        "body":  "The final season dismantled everything the show had built â€” that decision, controversial and brave, cements Succession as a tragedy in the classical tradition.",
+        "date":  "2024-02-10T16:45:00Z",
+        "likes":  789
+    },
+    {
+        "_id":  "review_005",
+        "contentId":  "movie_002",
+        "contentType":  "movie",
+        "author":  "SandwormFan",
+        "avatarUrl":  "/images/avatars/review_005.jpg",
+        "rating":  9,
+        "title":  "Villeneuve delivers his magnum opus",
+        "body":  "Dune Part Two is everything the first film promised. The Harkonnen scenes shot in black-and-white infrared are genuinely unlike anything in modern blockbuster cinema.",
+        "date":  "2024-03-01T11:00:00Z",
+        "likes":  341
+    },
+    {
+        "_id":  "review_006",
+        "contentId":  "series_003",
+        "contentType":  "series",
+        "author":  "HistoryBuff",
+        "avatarUrl":  "/images/avatars/review_006.jpg",
+        "rating":  10,
+        "title":  "Television event of the year",
+        "body":  "Shogun achieves the impossible â€” it makes the original miniseries feel incomplete by comparison. Hiroyuki Sanada has never been better, and that is saying something.",
+        "date":  "2024-04-15T08:30:00Z",
+        "likes":  567
+    }
+]

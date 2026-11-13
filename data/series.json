@@ -1,0 +1,358 @@
+[
+    {
+        "_id":  "series_001",
+        "title":  "The Bear",
+        "year":  2022,
+        "creator":  "Christopher Storer",
+        "genre":  [
+                      "Drama",
+                      "Comedy"
+                  ],
+        "seasons":  3,
+        "episodes":  28,
+        "rating":  9.2,
+        "language":  "English",
+        "status":  "Ongoing",
+        "description":  "A young chef from the fine dining world returns to Chicago to run his family\u0027s sandwich shop.",
+        "longDescription":  "Few shows have captured workplace intensity with the kinetic ferocity of The Bear. Each episode is a pressure cooker. Season 2 Episode 7 \u0027Forks\u0027 stands alone as the finest hour of television produced this decade.",
+        "posterUrl":  "/images/posters/series_001.jpg",
+        "backdropUrl":  "/images/backdrops/series_001.jpg",
+        "streamingOn":  [
+                            "Hulu",
+                            "Disney+"
+                        ],
+        "isTopTen":  true,
+        "topTenRank":  1,
+        "cast":  [
+                     {
+                         "actorId":  "actor_101",
+                         "name":  "Jeremy Allen White",
+                         "role":  "Carmen \u0027Carmy\u0027 Berzatto",
+                         "imageUrl":  "/images/cast/actor_101.jpg"
+                     },
+                     {
+                         "actorId":  "actor_102",
+                         "name":  "Ayo Edebiri",
+                         "role":  "Sydney Adamu",
+                         "imageUrl":  "/images/cast/actor_102.jpg"
+                     }
+                 ],
+        "reviewCount":  3421
+    },
+    {
+        "_id":  "series_002",
+        "title":  "Succession",
+        "year":  2018,
+        "creator":  "Jesse Armstrong",
+        "genre":  [
+                      "Drama",
+                      "Satire"
+                  ],
+        "seasons":  4,
+        "episodes":  39,
+        "rating":  9.4,
+        "language":  "English",
+        "status":  "Ended",
+        "description":  "The Roy family controls one of the largest media conglomerates in the world, but the patriarch\u0027s health begins to fail.",
+        "longDescription":  "Television\u0027s sharpest dissection of power, family, and capitalism. Succession is a modern tragedy in the Shakespearean tradition Ã¢â‚¬â€ a show where everyone is awful and yet you cannot look away from any of them.",
+        "posterUrl":  "/images/posters/series_002.jpg",
+        "backdropUrl":  "/images/backdrops/series_002.jpg",
+        "streamingOn":  [
+                            "Max"
+                        ],
+        "isTopTen":  true,
+        "topTenRank":  2,
+        "cast":  [
+                     {
+                         "actorId":  "actor_103",
+                         "name":  "Brian Cox",
+                         "role":  "Logan Roy",
+                         "imageUrl":  "/images/cast/actor_103.jpg"
+                     },
+                     {
+                         "actorId":  "actor_103b",
+                         "name":  "Jeremy Strong",
+                         "role":  "Kendall Roy",
+                         "imageUrl":  "/images/cast/actor_103b.jpg"
+                     }
+                 ],
+        "reviewCount":  5234
+    },
+    {
+        "_id":  "series_003",
+        "title":  "Shogun",
+        "year":  2024,
+        "creator":  "Rachel Kondo, Caillin Pujol",
+        "genre":  [
+                      "Drama",
+                      "Action",
+                      "History"
+                  ],
+        "seasons":  1,
+        "episodes":  10,
+        "rating":  9.0,
+        "language":  "English",
+        "status":  "Ongoing",
+        "description":  "A banished heir and an English navigator find themselves in the midst of a dangerous struggle for power in feudal Japan.",
+        "longDescription":  "FX\u0027s remake surpasses its source material with astonishing craft, fully realizing feudal Japan in all its complexity. Hiroyuki Sanada anchors the series with a performance of immense quiet power.",
+        "posterUrl":  "/images/posters/series_003.jpg",
+        "backdropUrl":  "/images/backdrops/series_003.jpg",
+        "streamingOn":  [
+                            "Hulu"
+                        ],
+        "isTopTen":  true,
+        "topTenRank":  3,
+        "cast":  [
+                     {
+                         "actorId":  "actor_104",
+                         "name":  "Hiroyuki Sanada",
+                         "role":  "Yoshii Toranaga",
+                         "imageUrl":  "/images/cast/actor_104.jpg"
+                     }
+                 ],
+        "reviewCount":  2893
+    },
+    {
+        "_id":  "series_004",
+        "title":  "The Last of Us",
+        "year":  2023,
+        "creator":  "Craig Mazin, Neil Druckmann",
+        "genre":  [
+                      "Drama",
+                      "Thriller",
+                      "Sci-Fi"
+                  ],
+        "seasons":  2,
+        "episodes":  19,
+        "rating":  8.8,
+        "language":  "English",
+        "status":  "Ongoing",
+        "description":  "A smuggler is tasked with escorting a teenager across a post-apocalyptic United States.",
+        "longDescription":  "HBO\u0027s adaptation is a rare achievement Ã¢â‚¬â€ it honors the source while finding its own emotional register. Episode 3 \u0027Long Long Time\u0027 stands as a masterclass in standalone television storytelling.",
+        "posterUrl":  "/images/posters/series_004.jpg",
+        "backdropUrl":  "/images/backdrops/series_004.jpg",
+        "streamingOn":  [
+                            "Max"
+                        ],
+        "isTopTen":  true,
+        "topTenRank":  4,
+        "cast":  [
+                     {
+                         "actorId":  "actor_105",
+                         "name":  "Pedro Pascal",
+                         "role":  "Joel Miller",
+                         "imageUrl":  "/images/cast/actor_105.jpg"
+                     },
+                     {
+                         "actorId":  "actor_105b",
+                         "name":  "Bella Ramsey",
+                         "role":  "Ellie Williams",
+                         "imageUrl":  "/images/cast/actor_105b.jpg"
+                     }
+                 ],
+        "reviewCount":  4102
+    },
+    {
+        "_id":  "series_005",
+        "title":  "Severance",
+        "year":  2022,
+        "creator":  "Dan Erickson",
+        "genre":  [
+                      "Thriller",
+                      "Sci-Fi",
+                      "Drama"
+                  ],
+        "seasons":  2,
+        "episodes":  19,
+        "rating":  8.9,
+        "language":  "English",
+        "status":  "Ongoing",
+        "description":  "Workers at Lumon Industries agree to a surgical procedure that separates their work memories from their personal ones.",
+        "longDescription":  "Apple TV+\u0027s most audacious drama is a formally innovative thriller about work, identity, and what it means to be a whole person. Ben Stiller directs with cold corporate precision, making the fluorescent-lit Lumon offices feel genuinely menacing.",
+        "posterUrl":  "/images/posters/series_005.jpg",
+        "backdropUrl":  "/images/backdrops/series_005.jpg",
+        "streamingOn":  [
+                            "Apple TV+"
+                        ],
+        "isTopTen":  true,
+        "topTenRank":  5,
+        "cast":  [
+                     {
+                         "actorId":  "actor_106",
+                         "name":  "Adam Scott",
+                         "role":  "Mark Scout",
+                         "imageUrl":  "/images/cast/actor_106.jpg"
+                     }
+                 ],
+        "reviewCount":  3677
+    },
+    {
+        "_id":  "series_006",
+        "title":  "The White Lotus",
+        "year":  2021,
+        "creator":  "Mike White",
+        "genre":  [
+                      "Drama",
+                      "Satire",
+                      "Mystery"
+                  ],
+        "seasons":  3,
+        "episodes":  24,
+        "rating":  8.5,
+        "language":  "English",
+        "status":  "Ongoing",
+        "description":  "The lives of privileged guests and local employees intertwine at a luxury resort over the course of a week.",
+        "longDescription":  "Mike White\u0027s incisive social comedy is best watched as a slow reveal. The more time you spend with these guests, the more uncomfortable it becomes Ã¢â‚¬â€ a show that weaponizes paradise.",
+        "posterUrl":  "/images/posters/series_006.jpg",
+        "backdropUrl":  "/images/backdrops/series_006.jpg",
+        "streamingOn":  [
+                            "Max"
+                        ],
+        "isTopTen":  true,
+        "topTenRank":  6,
+        "cast":  [
+                     {
+                         "actorId":  "actor_107",
+                         "name":  "Jennifer Coolidge",
+                         "role":  "Tanya McQuoid",
+                         "imageUrl":  "/images/cast/actor_107.jpg"
+                     }
+                 ],
+        "reviewCount":  2894
+    },
+    {
+        "_id":  "series_007",
+        "title":  "Slow Horses",
+        "year":  2022,
+        "creator":  "Will Smith",
+        "genre":  [
+                      "Thriller",
+                      "Spy",
+                      "Drama"
+                  ],
+        "seasons":  4,
+        "episodes":  24,
+        "rating":  8.6,
+        "language":  "English",
+        "status":  "Ongoing",
+        "description":  "A team of British intelligence agents who serve as a dumping ground for MI5 must navigate shadowy conspiracies.",
+        "longDescription":  "Apple TV+\u0027s best spy thriller benefits enormously from Gary Oldman\u0027s towering performance as the magnificently unpleasant Jackson Lamb. Densely plotted, witty, and genuinely tense.",
+        "posterUrl":  "/images/posters/series_007.jpg",
+        "backdropUrl":  "/images/backdrops/series_007.jpg",
+        "streamingOn":  [
+                            "Apple TV+"
+                        ],
+        "isTopTen":  true,
+        "topTenRank":  7,
+        "cast":  [
+                     {
+                         "actorId":  "actor_111",
+                         "name":  "Gary Oldman",
+                         "role":  "Jackson Lamb",
+                         "imageUrl":  "/images/cast/actor_111.jpg"
+                     }
+                 ],
+        "reviewCount":  1987
+    },
+    {
+        "_id":  "series_008",
+        "title":  "Andor",
+        "year":  2022,
+        "creator":  "Tony Gilroy",
+        "genre":  [
+                      "Sci-Fi",
+                      "Drama",
+                      "Action"
+                  ],
+        "seasons":  2,
+        "episodes":  24,
+        "rating":  8.4,
+        "language":  "English",
+        "status":  "Ended",
+        "description":  "The story of the rebellion against the Empire unfolds through the eyes of Cassian Andor, a rebel spy.",
+        "longDescription":  "Tony Gilroy\u0027s Star Wars series is an anomaly in franchise television Ã¢â‚¬â€ a mature, grounded political thriller that trusts its audience. The Narkina 5 prison arc (Episodes 8Ã¢â‚¬â€œ10) is some of the finest sci-fi television ever made.",
+        "posterUrl":  "/images/posters/series_008.jpg",
+        "backdropUrl":  "/images/backdrops/series_008.jpg",
+        "streamingOn":  [
+                            "Disney+"
+                        ],
+        "isTopTen":  true,
+        "topTenRank":  8,
+        "cast":  [
+                     {
+                         "actorId":  "actor_109",
+                         "name":  "Diego Luna",
+                         "role":  "Cassian Andor",
+                         "imageUrl":  "/images/cast/actor_109.jpg"
+                     }
+                 ],
+        "reviewCount":  2341
+    },
+    {
+        "_id":  "series_009",
+        "title":  "House of the Dragon",
+        "year":  2022,
+        "creator":  "Ryan J. Condal, Miguel Sapochnik",
+        "genre":  [
+                      "Fantasy",
+                      "Drama",
+                      "Action"
+                  ],
+        "seasons":  2,
+        "episodes":  18,
+        "rating":  8.2,
+        "language":  "English",
+        "status":  "Ongoing",
+        "description":  "An internal succession war within House Targaryen tears apart one of the greatest dynasties in Westeros.",
+        "longDescription":  "HBO\u0027s Game of Thrones prequel finds its footing in family drama and political intrigue. The dragons are spectacular, the politics Shakespearean, and the two Rhaenyras are both excellent.",
+        "posterUrl":  "/images/posters/series_009.jpg",
+        "backdropUrl":  "/images/backdrops/series_009.jpg",
+        "streamingOn":  [
+                            "Max"
+                        ],
+        "isTopTen":  true,
+        "topTenRank":  9,
+        "cast":  [
+                     {
+                         "actorId":  "actor_110",
+                         "name":  "Matt Smith",
+                         "role":  "Daemon Targaryen",
+                         "imageUrl":  "/images/cast/actor_110.jpg"
+                     }
+                 ],
+        "reviewCount":  4567
+    },
+    {
+        "_id":  "series_010",
+        "title":  "Abbott Elementary",
+        "year":  2021,
+        "creator":  "Quinta Brunson",
+        "genre":  [
+                      "Comedy"
+                  ],
+        "seasons":  4,
+        "episodes":  56,
+        "rating":  8.3,
+        "language":  "English",
+        "status":  "Ongoing",
+        "description":  "A group of dedicated teachers and an enthusiastic principal navigate the halls of a poorly funded school.",
+        "longDescription":  "Television\u0027s most warmhearted comedy in years, Abbott Elementary revives the mockumentary format with genuine heart. Quinta Brunson writes and performs with rare ease Ã¢â‚¬â€ the show feels effortless in the way only deeply crafted things do.",
+        "posterUrl":  "/images/posters/series_010.jpg",
+        "backdropUrl":  "/images/backdrops/series_010.jpg",
+        "streamingOn":  [
+                            "ABC",
+                            "Hulu"
+                        ],
+        "isTopTen":  true,
+        "topTenRank":  10,
+        "cast":  [
+                     {
+                         "actorId":  "actor_108",
+                         "name":  "Quinta Brunson",
+                         "role":  "Janine Teagues",
+                         "imageUrl":  "/images/cast/actor_108.jpg"
+                     }
+                 ],
+        "reviewCount":  1892
+    }
+]
